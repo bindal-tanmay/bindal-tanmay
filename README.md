@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Tanmay Bindal</h1>
-<p align="center"><i>"I can grow plant and I code sometimes"</i></p>
+<p align="center"><i>"I grow plant and I code sometimes"</i></p>
 
 <p align="center">
   <a href="https://github.com/pragyan2905">
