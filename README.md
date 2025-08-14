@@ -2,8 +2,8 @@
   <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=Namaste!&fontSize=90&fontAlign=50" />
 </p>
 
-<h1 align="center">Pragyan Sharma</h1>
-<p align="center"><i>"I can debate and I code sometimes"</i></p>
+<h1 align="center">Tanmay Bindal</h1>
+<p align="center"><i>"I can grow plant and I code sometimes"</i></p>
 
 <p align="center">
   <a href="https://github.com/pragyan2905">
