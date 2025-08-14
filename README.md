@@ -74,9 +74,9 @@ A developer with a professional focus in Data Science and Machine Learning. My w
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pragyan2905&show_icons=true&theme=tokyonight" alt="Pragyan's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bindal-tanmay&show_icons=true&theme=tokyonight" alt="Tanmay's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pragyan2905&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bindal-tanmay&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
