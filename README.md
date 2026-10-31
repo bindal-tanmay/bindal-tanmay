@@ -494,6 +494,16 @@ FOUND IT. ⚡
 
 🌱 Plants · 📷 Photography · 🎥 Cinematography · 🎬 Videography · 🔧 Hardware experimentation · 💡 Technology · 🚀 Building things
 
+## 🐍 CONTRIBUTION SNAKE
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bindal-tanmay/bindal-tanmay/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bindal-tanmay/bindal-tanmay/output/github-snake.svg" />
+  <img alt="Contribution snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/bindal-tanmay/bindal-tanmay/output/github-snake-dark.svg" />
+</picture>
+</div>
+
 ## 📊 ACTIVITY
 
 <p align="center">
